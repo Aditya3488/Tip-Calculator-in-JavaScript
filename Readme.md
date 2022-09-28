@@ -18,3 +18,5 @@ Note: Validate the value entered in to total bill, if the user is entering anyth
 Refer to the attached image for the functionality UI. 
 
 ![image](https://user-images.githubusercontent.com/68210647/113964370-fe830a00-9848-11eb-9ab3-67e187050df5.png)
+
+https://tip-calculator-in-java-script-se43.vercel.app/
